@@ -1,4 +1,5 @@
 # nutrishield-article
+------------------------------------------------------------------------------------------------------------------------------------------
 # Menjaga Tumbuh Kembang Anak Lewat Pangan Lokal Bersama NutriShield
 
 Persoalan tumbuh kembang anak, khususnya stunting pada periode seribu hari pertama kehidupan, masih menjadi tantangan nyata bagi masa depan keluarga di Indonesia. Banyak orang tua merasa cemas saat berat badan buah hatinya tidak kunjung naik sesuai harapan. Di tengah kekhawatiran tersebut, muncul anggapan keliru bahwa pemenuhan gizi yang baik selalu membutuhkan biaya mahal dan bahan makanan impor. Padahal, kunci utama kesehatan anak justru bersumber dari pangan lokal yang melimpah di pasar tradisional terdekat. Kehadiran asisten pintar NutriShield membuktikan bahwa perpaduan kekayaan alam Nusantara dan kepastian aturan medis mampu mendampingi para ibu serta kader Posyandu secara nyata, aman, dan tanpa keraguan.
@@ -14,3 +15,6 @@ Sinergi antara bahan makanan juga diperhitungkan secara cermat agar manfaat nutr
 Manfaat praktis ini dirasakan langsung saat pemantauan rutin di Posyandu. Takaran menu diubah menjadi ukuran sendok makan rumah tangga yang sederhana sehingga mudah dipraktikkan tanpa timbangan rumit. Apabila catatan penimbangan bulanan menunjukkan berat badan anak tidak bertambah sesuai standar kartu sehat selama dua bulan berturut-turut, sistem segera memberikan tanda peringatan dini. Laporan berkala dapat langsung dicetak rapi guna mempermudah kader merujuk anak ke fasilitas kesehatan terdekat. Pengasuh memperoleh kepastian langkah tanpa rasa bingung, sementara anak mendapatkan penanganan tepat sebelum terlambat.
 
 Pencegahan stunting dan pemenuhan gizi anak pada akhirnya berakar pada kepedulian terhadap bahan makanan yang ada di sekitar kita. Kehadiran NutriShield membuktikan bahwa teknologi ramah dan pangan pasar tradisional mampu berjalan beriringan demi melindungi masa depan generasi penerus. Setiap anak berhak tumbuh sehat dan cerdas lewat hidangan bergizi seimbang dari tanah airnya sendiri.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+Hak Cipta © 2026 Tim Shadow AI (Muhammad Hisyam Alfaris & Salsabila Putri Halimi) — NutriShield (https://nutrishield.web.id). Seluruh Hak Dilindungi Undang-Undang.
